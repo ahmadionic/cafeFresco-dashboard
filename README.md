@@ -225,3 +225,7 @@ Vercel notes:
 ## Developer
 
 Developed by Muhammad Ismaeel.
+
+## Deployment
+
+Deployed by Ahmad Shahbaz.
